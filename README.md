@@ -46,33 +46,44 @@ The Adult Income Census Prediction project is a typical example of a binary clas
 ## 🛠️ Setup
 <ol>
 <li> Install pandas </li>
-```
+
+'''
 pip3 install pandas
-```
+'''
+
 <li> Install scikit-learn </li>
-```
+
+'''
 pip3 install numpy
-```
+'''
+
 <li> Download the repository</li>
 - Using git command
-```
+
+'''
 git clone 'https://github.com/tirumaleshn2458/adult-income-prediction.git'
-```
+'''
+
 - Or directly download the zip file by clicking the below link and extract
-```
+
+'''
 https://github.com/tirumaleshn2458/adult-income-prediction/archive/refs/heads/main.zip
-```
+'''
 </ol>
 
 ## Running
 <ol>
 <li>Open terminal</li>
 <li>Go to the downloaded or cloned repository</li>
+
 '''
 cd adult-census-prediction
 '''
+
 <li>Run the main file</li>
+
 '''
 python3 main.py
 '''
+
 </ol>
