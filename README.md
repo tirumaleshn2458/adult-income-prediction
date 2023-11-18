@@ -44,16 +44,12 @@ The Adult Income Census Prediction project is a typical example of a binary clas
 - Numpy
 
 ## 🛠️ Setup
-<ol>
-<li> Install pandas : `pip3 install pandas` </li>
-Markup :  `pip3 install pandas`
-<li> Install scikit-learn : `pip3 install scikit-learn` </li>
-<li> Install Numpy : `pip3 install numpy` </li>
-<li> Download the repository</li>
-- Using git command : `git clone "https://github.com/tirumaleshn2458/adult-income-prediction.git"`
-- Or directly download the zip file by clicking the below link and extract
-https://github.com/tirumaleshn2458/adult-income-prediction/archive/refs/heads/main.zip
-</ol>
+1. Install pandas: ```pip3 install pandas```
+2. Install numpy: ```pip3 instal numpy```
+3. Install scikit-learn: ```pip3 install scikit-learn```
+4. Download the repository:
+- - Using git command: ```git clone "https://github.com/tirumaleshn2458/adult-income-prediction.git"```
+- - Or directly download the zip file by clicking the below link and extract: ```https://github.com/tirumaleshn2458/adult-income-prediction/archive/refs/heads/main.zip```
 
 ## Running
 <ol>
