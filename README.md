@@ -49,6 +49,7 @@ The Adult Income Census Prediction project is a typical example of a binary clas
 
 'pip3 install pandas'
 
+Markup :  `pip3 install pandas`
 
 <li> Install scikit-learn </li>
 
