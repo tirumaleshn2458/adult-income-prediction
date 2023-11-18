@@ -68,11 +68,11 @@ https://github.com/tirumaleshn2458/adult-income-prediction/archive/refs/heads/ma
 <ol>
 <li>Open terminal</li>
 <li>Go to the downloaded or cloned repository</li>
-```
+'''
 cd adult-census-prediction
-```
+'''
 <li>Run the main file</li>
-```
+'''
 python3 main.py
-```
+'''
 </ol>
